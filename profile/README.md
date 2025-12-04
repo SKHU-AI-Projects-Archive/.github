@@ -17,17 +17,17 @@
 ### 2. 🏷️ 아카이브 인덱스
 
 * **연도및학기별 목록:**
-    * [2023 Fall](/?q=2023-2)
-    * [2024 Spring](/?q=2024-1)
-    * [2024 Fall](/?q=2024-2)
-    * [2024 Winter](/?q=2024-W)
-    * [2025 Spring](/?q=2025-1)
+    * [2023 Fall](https://github.com/SKHU-AI-Projects-Archive?q=2023-2)
+    * [2024 Spring](https://github.com/SKHU-AI-Projects-Archive?q=2024-1)
+    * [2024 Fall](https://github.com/SKHU-AI-Projects-Archive?q=2024-2)
+    * [2024 Winter](https://github.com/SKHU-AI-Projects-Archive?q=2024-W)
+    * [2025 Spring](https://github.com/SKHU-AI-Projects-Archive?q=2025-1)
 
 * **수업별 목록:**
-    * [인공지능캡스톤디자인 (Capstone)](/?q=Capstone)
-    * [인공지능문제해결 (Solving)](/?q=Solving)
-    * [오픈소스SW개발 (OpenSW)](/?q=OpenSW)
-    * [학부생연구 (Research)](/?q=Research)
+    * [인공지능캡스톤디자인 (Capstone)](https://github.com/SKHU-AI-Projects-Archive?q=Capstone)
+    * [인공지능문제해결 (Solving)](https://github.com/SKHU-AI-Projects-Archive?q=Solving)
+    * [오픈소스SW개발 (OpenSW)](https://github.com/SKHU-AI-Projects-Archive?q=OpenSW)
+    * [학부생연구 (Research)](https://github.com/SKHU-AI-Projects-Archive?q=Research)
 
 ---
 
