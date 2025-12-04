@@ -29,9 +29,6 @@
     * [오픈소스SW개발 (OpenSW)](https://github.com/orgs/SKHU-AI-Projects-Archive/repositories?q=OpenSW)
     * [학부생연구 (Research)](https://github.com/orgs/SKHU-AI-Projects-Archive/repositories?q=Research)
 
-* **주요 연구:**
-    * [스쿠 어드벤처](https://github.com/SKHU-AI-Projects-Archive/.github/tree/main/archives/2024-1-Capstone-T01-adventure/profile-README.md)
-      
 ### 📞 문의
 
 본 아카이브 운영에 대한 문의 사항은 **sylee@skhu.ac.kr** 로 연락해 주시기 바랍니다.
