@@ -16,18 +16,12 @@
 
 ### 2. 🏷️ 아카이브 인덱스
 
-* **연도및학기별 목록:**
-    * [2023 Fall](https://github.com/orgs/SKHU-AI-Projects-Archive/repositories?q=2023-2)
-    * [2024 Spring](https://github.com/orgs/SKHU-AI-Projects-Archive/repositories?q=2024-1)
-    * [2024 Fall](https://github.com/orgs/SKHU-AI-Projects-Archive/repositories?q=2024-2)
-    * [2024 Winter](https://github.com/orgs/SKHU-AI-Projects-Archive/repositories?q=2024-W)
-    * [2025 Spring](https://github.com/orgs/SKHU-AI-Projects-Archive/repositories?q=2025-1)
-
-* **수업별 목록:**
-    * [인공지능캡스톤디자인 (Capstone)](https://github.com/orgs/SKHU-AI-Projects-Archive/repositories?q=Capstone)
-    * [인공지능문제해결 (Solving)](https://github.com/orgs/SKHU-AI-Projects-Archive/repositories?q=Solving)
-    * [오픈소스SW개발 (OpenSW)](https://github.com/orgs/SKHU-AI-Projects-Archive/repositories?q=OpenSW)
-    * [학부생연구 (Research)](https://github.com/orgs/SKHU-AI-Projects-Archive/repositories?q=Research)
+ * [2023-2학기 오픈소스SW개발](https://github.com/orgs/SKHU-AI-Projects-Archive/repositories?q=2023-2-OpenSW)
+ * [2024-1학기 인공지능캡스톤디자인](https://github.com/orgs/SKHU-AI-Projects-Archive/repositories?q=2024-1-Capstone)
+ * [2024-2학기 오픈소스SW개발](https://github.com/orgs/SKHU-AI-Projects-Archive/repositories?q=2024-2-OpenSW)
+ * [2024-겨울 학부생연구](https://github.com/orgs/SKHU-AI-Projects-Archive/repositories?q=2024-W-Research)
+ * [2025-1학기 인공지능캡스톤디자인](https://github.com/orgs/SKHU-AI-Projects-Archive/repositories?q=2025-1-Capstone)
+ * [2025-2학기 오픈소스SW개발](https://github.com/orgs/SKHU-AI-Projects-Archive/repositories?q=2025-2-OpenSW)
 
 ### 📞 문의
 
