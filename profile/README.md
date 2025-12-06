@@ -1,19 +1,18 @@
-# 🎓 SKHU-AI-Projects-Archive
-
-> **성공회대학교 인공지능전공** 프로젝트 자산 통합 아카이브입니다.
->
-> 본 Organization은 성공회대학교 인공지능전공 교육과정에서 수행된 모든 프로젝트의 산출물을 체계적으로 보존하고, 공유하여 교육적 가치를 확산하기 위해 구축되었습니다.
+<div align="center">
+<img width="100%" alt="SKHU-AI-Projects-Archive" src="https://github.com/user-attachments/assets/521a75d6-6167-449a-98f3-92969a757747" />
+</div>
 
 ---
 
 ## 👩‍💻 인공지능전공생 멤버 가입 안내
 
-인공지능전공생은 아래 절차를 통해 본 Organization의 멤버로 가입할 수 있습니다.
+본 아카이브는 자동화된 가입 시스템을 운영 중입니다. 인공지능전공생은 아래 절차에 따라 즉시 멤버로 합류할 수 있습니다.
 
-1.  상단 메뉴의 **[Teams]** 탭을 클릭합니다.
-2.  **`All-AI-Students`** 팀을 찾아 클릭합니다.
-3.  초록색 **[Request to join]** 버튼을 클릭하여 가입을 요청합니다.
-4.  관리자의 승인을 거쳐, 정식 멤버로 등록됩니다.
+1. **GitHub 계정 생성:** 계정이 없는 경우 [GitHub](https://github.com/)에 가입
+2. **가입 신청 이슈 이동:** [👋 가입 신청 전용 이슈 (클릭)](https://github.com/SKHU-AI-Projects-Archive/.github/issues/1)로 이동
+3.  **댓글 작성:** 해당 이슈에 양식을 갖추어 댓글 작성
+4.  **자동 초대:** 시스템이 댓글 인식 후 초대장 자동 발송
+5.  **초대 수락:** GitHub에 등록된 이메일을 확인하여 초대 수락
 
 ---
 
